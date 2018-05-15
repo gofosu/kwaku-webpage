@@ -31,6 +31,10 @@ weight = 5
 
 My research focuses on election integrity, democratic accountability, legislator behavior, and the political economy of development in Sub-Saharan Africa. I also work on issues of research design and transparency. 
 
-In 2015-2016 Dr. Ofosu was a predoctoral fellow (2015-2016) at Stanford’s Center on Democracy, Development, and the Rule of Law. He was also a Hewlett Research Fellow at Weatherhead Center for International Affairs, Harvard University in 2009-2010. He received his bachelor’s degree from the University of Ghana and subsequently worked as a Programs and Research Officer at the Ghana Center for Democratic Development. He has also worked as an independent consultant for the National Democratic Institute to help facilitate election observation efforts and parallel vote tabulations by domestic civil society groups in Malawi (2009), Nigeria (2011) and Guinea (2015). 
+In my book project, I use experimental and observational research methods to examine the effects of the quality of elections on the responsiveness of politicians in developing countries. I show that the quality of elections motivates legislators efforts to provide higher levels of constituency service in the form of local public goods, but have no effect on their legislative duties. I argue and provide suggestive evidence that it is the expectation of limited opportunities for fraud that explains the effect of election quality.
+
+My research has been funded by the National Science Foundation, the UK’s Department for International Development, the International Growth Center, and the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/george-ofosu/). It has been published in the British Journal of Political Studies and Electoral Studies. 
+ 
+I was a predoctoral fellow (2015-2016) at Stanford’s Center on Democracy, Development, and the Rule of Law and held a Hewlett Research Fellowship position at Weatherhead Center for International Affairs, Harvard University in 2009-2010. I have also worked, as consultant for the National Democratic Institute, on domestic election observation efforts and parallel vote tabulations in Malawi (2009), Nigeria (2011) and Guinea (2015). 
 
 {{% staticref "files/Ofosu_George_CV_032018.pdf" %}}Download my current CV here {{% /staticref %}}.
