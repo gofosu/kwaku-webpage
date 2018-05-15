@@ -17,24 +17,18 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Political Science"
+  institution = "University of California in Los Angeles"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Philosophy and Religion"
+  institution = "University of Ghana"
+  year = 2006
  
 +++
 
-# Biography
+George Ofosu is a postdoctoral research associate in the Department of Political Science at Washington University in St. Louis. He received his Ph.D. in comparative politics and quantitative methods at UCLA. His research focuses on electoral fraud, electoral accountability, legislator behavior, and the political economy of development in Sub-Saharan Africa. He also works on issues of research design and transparency. 
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Ofosu was a predoctoral fellow (2015-2016) at Stanford’s Center on Democracy, Development, and the Rule of Law. He was also a Hewlett Research Fellow at Weatherhead Center for International Affairs, Harvard University in 2009-2010. He received his bachelor’s degree from the University of Ghana and subsequently worked as a Programs and Research Officer at the Ghana Center for Democratic Development. He has also worked as an independent consultant for the National Democratic Institute to help facilitate election observation efforts and parallel vote tabulations by domestic civil society groups in Malawi (2009), Nigeria (2011) and Guinea (2015). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
