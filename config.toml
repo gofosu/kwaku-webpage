@@ -263,6 +263,11 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
+  name = "Invited contributions"
+  url = "#invitedwrite"
+  weight = 3
+  
+[[menu.main]]
   name = "Field projects"
   url = "#projects"
   weight = 4
