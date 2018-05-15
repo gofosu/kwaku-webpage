@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*British Journal of Political Science*"
-publication_short = "BJPS"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "TWe study the effects of domestic election observers on electoral fraud and violence. With an experimental research design and polling station data on fraud and violence during Ghana’s 2012 elections, we show that observers reduce fraud (by 6 percent) and violence (by 60 percent) at polling stations to which they were deployed. We also find that local electoral competition shapes party activists’ response to observers. In single-party dominant areas, parties use their local political networks to relocate fraud to polling stations without an election observer. In contrast, party activists relocate violence to stations without observers in competitive areas — a response that requires less local organizational capacity. The results highlight how local party organization and electoral incentives shape the manipulative electoral strategies employed by parties in democratic elections."
@@ -58,10 +58,4 @@ math = true
 
 # Does the content use source code highlighting?
 highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
 +++
