@@ -263,7 +263,7 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Projects"
+  name = "Field projects"
   url = "#projects"
   weight = 4
 
