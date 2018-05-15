@@ -2,7 +2,7 @@
 title = "The Moderating Effect of Debates on Political Attitudes"
 
 # Date first published.
-date = "2014-09-01"
+date = "2018-02-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Eric Kramon", "George Ofosu"]
