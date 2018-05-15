@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/bko_debates_14Feb2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
