@@ -31,7 +31,7 @@ weight = 5
 
 My research focuses on election integrity, democratic accountability, legislator behavior, and the political economy of development in Sub-Saharan Africa. I also work on issues of research design and transparency. 
 
-In my book project, I use experimental and observational research methods to examine the effects of the quality of elections on the responsiveness of politicians in developing countries. I show that the quality of elections motivates legislators efforts to provide higher levels of constituency service in the form of local public goods, but have no effect on their legislative duties. I argue and provide suggestive evidence that it is the expectation of limited opportunities for fraud that explains the effect of election quality.
+In my book project, I use experimental and observational research methods to examine the effects of election quality on democratic responsiveness in developing countries. I show that politicians elected in high-quality elections exert more efforts to satisfy constituents' demands for local public goods, but do change their attendance to parliamentary meetings. I argue that interventions such as election observation that limits opportunities for election-day fraud and violence, and encourage office-seeking politicians to substitute effort for election manipulation
 
 My research has been funded by the National Science Foundation, the UK’s Department for International Development, the International Growth Center, and the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/george-ofosu/). It has been published in the British Journal of Political Studies and Electoral Studies. 
  
