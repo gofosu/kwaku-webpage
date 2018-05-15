@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Election integrity",
+    "Election Integrity",
     "Political Representation",
     "African Politics",
     "Experimental Methods/Research Design"
