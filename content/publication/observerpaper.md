@@ -1,5 +1,5 @@
 +++
-title = ""Electoral Fraud or Violence: The Effect of Observers on Party Manipulation Strategies"
+title = "Electoral Fraud or Violence: The Effect of Observers on Party Manipulation Strategies"
 
 # Date first published.
 date = "2017-07-01"
