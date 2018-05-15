@@ -33,4 +33,4 @@ My research focuses on election integrity, democratic accountability, legislator
 
 In 2015-2016 Dr. Ofosu was a predoctoral fellow (2015-2016) at Stanford’s Center on Democracy, Development, and the Rule of Law. He was also a Hewlett Research Fellow at Weatherhead Center for International Affairs, Harvard University in 2009-2010. He received his bachelor’s degree from the University of Ghana and subsequently worked as a Programs and Research Officer at the Ghana Center for Democratic Development. He has also worked as an independent consultant for the National Democratic Institute to help facilitate election observation efforts and parallel vote tabulations by domestic civil society groups in Malawi (2009), Nigeria (2011) and Guinea (2015). 
 
-Here is my current CV.
+{{% staticref "files/cv.pdf" %}}Download my current CV here {{% /staticref %}}.
