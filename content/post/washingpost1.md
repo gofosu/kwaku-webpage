@@ -2,8 +2,8 @@
 title: "Washington Post (Monkey Cage)"
 description: ""
 date: "2017-01-06"
-categories
-  - "hello"
+categories:
+  - "blog"
 tags:
   - "example"
   - "hugo"
