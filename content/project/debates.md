@@ -9,7 +9,7 @@ title = "Ghana 2016 Parliamentary Debates Project"
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "candidates_mfantseman.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
