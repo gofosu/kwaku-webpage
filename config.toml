@@ -263,11 +263,6 @@ enableGitInfo = false
   weight = 2
   
 [[menu.main]]
-  name = "Invited contributions"
-  url = "#posts"
-  weight = 5
-
-[[menu.main]]
   name = "Ongoing projects"
   url = "#projects"
   weight = 3
@@ -276,6 +271,11 @@ enableGitInfo = false
   name = "Teaching"
   url = "#teaching"
   weight = 4
+
+[[menu.main]]
+  name = "Invited contributions"
+  url = "#posts"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
