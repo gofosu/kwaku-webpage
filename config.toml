@@ -261,26 +261,21 @@ enableGitInfo = false
   name = "Publications"
   url = "#publications_selected"
   weight = 2
-
-[[menu.main]]
-  name = "Invited contributions"
-  url = "#invitedwrite"
-  weight = 3
   
 [[menu.main]]
   name = "Field projects"
   url = "#projects"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
