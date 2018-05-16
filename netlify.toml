@@ -9,6 +9,7 @@
 
 [[redirects]]
 # Redirect default Netlify subdomain to primary domain
-from = https://georgeofosu.netlify.com/* 
-to= https://www.georgeofosu.com/:splat 
-status: 301!
+from = "https://georgeofosu.netlify.com/*" 
+to= "https://www.georgeofosu.com/:splat" 
+status = 301
+force= true
