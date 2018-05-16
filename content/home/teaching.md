@@ -20,4 +20,4 @@ weight = 60
 +++
 
 - POL SCI 5001: The design and analysis of field experiments in
-political science. Spring 2018. [Syllabus](file/PS5001_syllabus_Spring2018.pdf)
+political science. Spring 2018. {{% staticref "files/PS5001_syllabus_Spring2018.pdf" "newtab" %}}Syllabus{{% /staticref %}}
