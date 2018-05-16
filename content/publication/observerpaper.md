@@ -5,7 +5,7 @@ title = "Electoral Fraud or Violence: The Effect of Observers on Party Manipulat
 date = "2017-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Joseph Asunka", "Sarah Brierley", "Miriam Golden", "Eric Kramon","&amp", "George Ofosu"]
+authors = ["Joseph Asunka", "Sarah Brierley", "Miriam Golden", "Eric Kramon", "& George Ofosu"]
 
 # Publication type.
 # Legend:
