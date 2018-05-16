@@ -5,8 +5,6 @@ date: "2017-01-06"
 categories:
   - "blog"
 tags:
-  - "example"
-  - "hugo"
   - "blog"
 ---
 
