@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "George K. Ofosu"
+title = "G. Kwaku Ofosu"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -54,12 +54,12 @@ enableGitInfo = false
   font = "classic"
 
   # Your details.
-  name = "George K. Ofosu"
+  name = "G. Kwaku Ofosu"
   role = "Postdoctoral Research Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Washingtington University in St. Louis", url = "https://polisci.wustl.edu/" } ]
+  organizations = [ { name = "Washington University in St. Louis", url = "https://polisci.wustl.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "georgepic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
