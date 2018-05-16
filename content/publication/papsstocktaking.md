@@ -1,5 +1,5 @@
 +++
-title = "Using  'administrative errors' to rig elections"
+title = "Pre-Analysis Plans: A Stocktaking"
 
 # Date first published.
 date = "2017-12-15"
