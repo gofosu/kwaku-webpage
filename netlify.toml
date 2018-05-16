@@ -6,3 +6,7 @@
   HUGO_VERSION = "0.40.3"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+# Redirect default Netlify subdomain to primary domain
+https://georgeofosu.netlify.com/* https://www.georgeofosu.com/:splat 301!
