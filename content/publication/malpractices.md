@@ -1,5 +1,5 @@
 +++
-title = "Using  "administrative errors" to rig elections"
+title = "Using  'administrative errors' to rig elections"
 
 # Date first published.
 date = "2017-12-15"
@@ -23,7 +23,7 @@ publication = "*Under Review*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-# abstract = "Leveraging novel experimental designs and 2,160 months of Constituency Development Fund (CDF) spending by legislators in Ghana, I examine whether and how fair elections promote democratic responsiveness. The results show that incumbents elected from constituencies that were randomly assigned to intensive election-day monitoring during Ghana’s 2012 election spent 19 percentage points more of their CDFs during their terms in office compared to those elected from constituencies with fewer monitors. Legislators from all types of constituencies are equally present in parliament, suggesting that high levels of monitoring do not cause politicians to substitute constituency service for parliamentary work. Tests of causal mechanisms provide suggestive evidence that fair election motivates high performance through incumbents’ expectations of electoral sanction and not the selection of better candidates. The paper provides causal evidence of the impact of election integrity on democratic accountability."
+abstract = " "
 
 abstract_short = ""
 
