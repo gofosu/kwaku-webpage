@@ -43,7 +43,7 @@ url_pdf = "files/bko_debates_14Feb2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "https://sites.google.com/view/ghanadebates"
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "IGC blog piece", url = "https://www.theigc.org/blog/impact-parliamentary-debates-ghanas-2016-elections/"}]
 
 # Does the content use math formatting?
 math = true
