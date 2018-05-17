@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Political Science"
-  institution = "University of California in Los Angeles"
+  institution = "University of California, Los Angeles"
   year = 2017
 
 [[education.courses]]
