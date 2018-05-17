@@ -29,7 +29,7 @@ weight = 5
  
 +++
 
-My research focuses on election integrity, democratic accountability, legislator behavior, and the political economy of development in Sub-Saharan Africa. I also work on issues of research design and transparency. 
+My research focuses on political accountability, election integrity, and the quality of democracy in Sub-Saharan Africa. I also work on issues of research design and transparency. 
 
 In my book project, I use experimental and observational research methods to examine the effects of election quality on democratic responsiveness in developing countries. I show that politicians elected in high-quality elections exert more effort to satisfy constituents' demands for local public goods, but *do not* change their attendance to parliamentary meetings. I argue that interventions -- such as election observation -- that limit opportunities for fraud and violence, encourage politicians to work harder, substituting manipulation with effort.
 
