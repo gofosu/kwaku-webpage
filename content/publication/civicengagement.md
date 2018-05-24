@@ -2,7 +2,7 @@
 title = "Education, Civic Engagement and Youth Support for Violence in Fragile States: Evidence from Somaliland"
 
 # Date first published.
-date = "2018-05-24"
+date = "2018-05-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George Ofosu", "Beza Tesfaye"]
