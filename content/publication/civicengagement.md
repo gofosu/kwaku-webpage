@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/ofosu_tesfaye_violence.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
