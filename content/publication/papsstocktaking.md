@@ -19,12 +19,12 @@ authors = ["George Ofosu", "Daniel Posner"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "In preparation"
 publication_short = ""
 
 # Abstract and optional shortened version.
 
-abstract = ""
+abstract = "The evidence-based community has held up preregistration as a solution to the problem of research credibility, but—ironically—without any evidence that preregistration works. The goal of our proposed research is to provide an evidentiary base for assessing whether PAPs—as they are currently used—are effective in achieving their stated objectives of preventing “fishing,” reducing scope for the post-hoc adjustment of research hypotheses, and solving the “file drawer problem.” We aim to do this by analyzing a random sample of 300 studies that have been pre-registered on the AEA and EGAP registration platforms, evenly distributed across studies that are still in progress, completed and resulting in a publicly available paper, and completed but (as far as we can determine) not resulting in a publicly available paper. Given the significant costs of researcher time and energy in preparing PAPs, and the implications that adhering to them may have on opportunities for breakthroughs that come from unexpected, surprise results, it is critical to take stock of whether PAPs are working."
 
 abstract_short = ""
 
