@@ -23,7 +23,7 @@ publication = "*Under Review*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In theory, candidate debates improve democratic accountability by providing information about candidates’ quality and policy positions. However, there is limited evidence about whether and why debates influence voters in new democracies. We use a field experiment on parliamentary debates during Ghana’s 2016 elections to show that debates improve voters’ evaluations of candidates. Debates have the strongest effect on partisan voters, who become more favorable toward opposing-party candidates and less likely to vote for co-partisans. Experimental and unique real-time response data, capturing second-by-second reactions to the debates, shows that information about both policies and candidate quality are important mechanisms. A follow-up survey shows that the effects of such information persist in electorally competitive communities, while they disappear in party strongholds. Debates thus have the potential to moderate political attitudes and reduce partisan polarization in new democracies, but the persistence of these effects is conditioned by the local political context."
+abstract = "In theory, candidate debates can influence voters by providing information about candidates’ quality and policy positions. However, there is limited evidence about whether and why debates influence voters in new democracies. We use a field experiment on parliamentary debates during Ghana’s 2016 elections to show that debates improve voters’ evaluations of candidates. Debates have the strongest effect on partisan voters, who become more favorable toward and more likely to vote for opponentparty candidates and less likely to vote for co-partisans. Experimental and unique observational data capturing participants’ second-by-second reactions to the debates show that policy information was the most important causal mechanism driving partisan moderation, especially among strong partisans. A follow-up survey shows that these effects persist in electorally competitive communities, while they dissipate in party strongholds. Debates have the potential to reduce partisan polarization in new democracies, but the local political context conditions the persistence of these effects."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "files/bko_debates_14Feb2018.pdf"
+url_pdf = "files/BKO_debates_25Jun18.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
