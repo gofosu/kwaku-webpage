@@ -19,7 +19,7 @@ authors = ["George Ofosu", "Beza Tesfaye"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Submitted*"
+publication = "*Under Review*"
 publication_short = ""
 
 # Abstract and optional shortened version.
