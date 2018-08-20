@@ -37,4 +37,4 @@ My research has received funding from the National Science Foundation, the UK’
  
 I was a predoctoral fellow at Stanford’s Center on Democracy, Development, and the Rule of Law (2015-2016) and previously held a Hewlett Research Fellowship position at the Weatherhead Center for International Affairs, Harvard University (2009-2010). I have also worked as a consultant for the National Democratic Institute on domestic election observation efforts and parallel vote tabulations in Malawi (2009), Nigeria (2011) and Guinea (2015). 
 
-{{% staticref "files/Ofosu_George_CV_032018.pdf" %}}Download my current CV here {{% /staticref %}}.
+{{% staticref "files/Ofosu_George_CV_072018.pdf" %}}Download my current CV here {{% /staticref %}}.
