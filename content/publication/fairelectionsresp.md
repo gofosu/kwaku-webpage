@@ -19,7 +19,7 @@ authors = ["George Ofosu"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Under Review*"
+publication = "*Revision invited at APSR*"
 publication_short = ""
 
 # Abstract and optional shortened version.
