@@ -19,7 +19,7 @@ authors = ["Sarah Brierley", "Eric Kramon", "George Ofosu"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Under Review*"
+publication = "*Revisions invited at AJPS*"
 publication_short = ""
 
 # Abstract and optional shortened version.
