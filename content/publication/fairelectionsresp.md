@@ -1,5 +1,5 @@
 +++
-title = "Do Fairer Elections Increase Politicians' Responsiveness?"
+title = "Do Fairer Elections Increase the Responsiveness of Politicians?"
 
 # Date first published.
 date = "2018-03-01"
