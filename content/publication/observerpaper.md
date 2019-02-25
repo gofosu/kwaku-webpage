@@ -2,7 +2,7 @@
 title = "Electoral Fraud or Violence: The Effect of Observers on Party Manipulation Strategies"
 
 # Date first published.
-date = "2017-07-01"
+date = "2019-01-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Joseph Asunka", "Sarah Brierley", "Miriam Golden", "Eric Kramon", "& George Ofosu"]
