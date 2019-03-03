@@ -19,7 +19,7 @@ authors = ["Sarah Brierley", "Eric Kramon", "George Kwaku Ofosu"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Forthcoming American Journal of Political Science*"
+publication = "*Accepted American Journal of Political Science*"
 publication_short = ""
 
 # Abstract and optional shortened version.
