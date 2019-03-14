@@ -19,8 +19,8 @@ authors = ["George Kwaku Ofosu"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "*Under review*"
-publication_short = ""
+publication = "*Under review* Oxford Encyclopedia of African Politics; Nicholas Cheeseman (ed). Oxford University Press."
+ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Political scientists are increasingly using randomized experiments to study African politics. Scholars have adopted experimental methods to overcome two central research challenges. First, to circumvent social desirability bias to measure the prevalence of sensitive topics such as ethnic bias, clientelism, corruption, and vote buying on political behavior. Second, to estimate the causal effects of policies aimed at enhancing the quality of democracy or public service delivery. The chapter categorizes the key themes and presents findings of influential experimental work on African politics. It also highlights the potential limits and the ethical challenges that characterize the use of randomization methods in the field." 
