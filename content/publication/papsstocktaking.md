@@ -5,7 +5,7 @@ title = "Pre-Analysis Plans: A Stocktaking"
 date = "2017-12-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["George Ofosu", "Daniel Posner"]
+authors = ["George Kwaku Ofosu", "Daniel Posner"]
 
 # Publication type.
 # Legend:
