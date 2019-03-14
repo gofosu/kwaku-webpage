@@ -52,7 +52,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "IGC blog piece", url = "https://www.theigc.org/blog/impact-parliamentary-debates-ghanas-2016-elections/"}]
+# url_custom = [{name = "IGC blog piece", url = "https://www.theigc.org/blog/impact-parliamentary-debates-ghanas-2016-elections/"}]
 
 # Does the content use math formatting?
 math = true
