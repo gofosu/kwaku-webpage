@@ -5,7 +5,7 @@ title = "Education, Civic Engagement and Youth Support for Violence in Fragile S
 date = "2018-01-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["George Ofosu", "Beza Tesfaye"]
+authors = ["George Kwaku Ofosu", "Beza Tesfaye"]
 
 # Publication type.
 # Legend:
