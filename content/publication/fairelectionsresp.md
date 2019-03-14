@@ -5,7 +5,7 @@ title = "Do Fairer Elections Increase the Responsiveness of Politicians?"
 date = "2018-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["George Ofosu"]
+authors = ["George Kwaku Ofosu"]
 
 # Publication type.
 # Legend:
