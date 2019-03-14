@@ -5,7 +5,7 @@ title = "Using  'administrative errors' to rig elections"
 date = "2017-12-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["George Ofosu"]
+authors = ["George Kwaku Ofosu"]
 
 # Publication type.
 # Legend:
