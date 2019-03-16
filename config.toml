@@ -53,8 +53,6 @@ enableGitInfo = false
   #   Choose from `default`, `classic`, or `playfair`.
   font = "playfair"
   
-  font_size = "12"
-  font_size_small = "8"
 
   # Your details.
   name = "George Ofosu"
