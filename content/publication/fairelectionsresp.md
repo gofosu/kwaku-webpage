@@ -2,7 +2,7 @@
 title = "Do Fairer Elections Increase the Responsiveness of Politicians?"
 
 # Date first published.
-date = "2018-03-01"
+date = "2019-03-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George Kwaku Ofosu"]
@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "files/ofosu_fairelections_responsiveness_112018.pdf"
+url_pdf = "files/ofosu_fairelections_responsiveness_032019.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
