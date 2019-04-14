@@ -15,3 +15,5 @@ tags:
 - [Election Observers and Electoral Fraud](https://mk0apsaconnectbvy6p6.kinstacdn.com/wp-content/uploads/sites/26/2017/10/2016_14_3.pdf), APSA Comparative Democratization Newsletter Volume 14, No. 3. 
 
 - [MP Absenteeism during Ghana’s Sixth Parliament (2013-2015)](http://blog.odekro.org/2015/12/20/mp-absenteeism-during-ghanas-sixth-parliament-2013-2015/), December 20, 2015.
+
+- [The 2016 Ghanaian Elections](https://africanpoliticsgroup.org/newsletters/2017-newsletter-2/2017-newsletter-symposium-2), APCG 2017 Newsletter Symposium, Reflecting on African Elections.
