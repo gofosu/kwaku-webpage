@@ -7,6 +7,7 @@ categories:
 tags:
   - "blog"
 ---
+
 - [The 2016 Ghanaian Elections](https://africanpoliticsgroup.org/newsletters/2017-newsletter-2/2017-newsletter-symposium-2/), APCG 2017 Newsletter Symposium: Reflecting on African Elections.
 
 - [What will Ghanaians expect from their new president?](https://www.washingtonpost.com/news/monkey-cage/wp/2017/01/06/what-will-ghanaians-expect-from-their-new-president/?noredirect=on&utm_term=.617ae25ddd84), Washington Post (Monkey Cage), January 6, 2017.
