@@ -16,4 +16,4 @@ tags:
 
 - [MP Absenteeism during Ghana’s Sixth Parliament (2013-2015)](http://blog.odekro.org/2015/12/20/mp-absenteeism-during-ghanas-sixth-parliament-2013-2015/), December 20, 2015.
 
-- [The 2016 Ghanaian Elections](https://africanpoliticsgroup.org/newsletters/2017-newsletter-2/2017-newsletter-symposium-2), APCG 2017 Newsletter Symposium, Reflecting on African Elections.
+
