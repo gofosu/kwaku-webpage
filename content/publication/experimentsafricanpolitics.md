@@ -19,7 +19,7 @@ authors = ["George Kwaku Ofosu"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Oxford Research Encyclopedia of Politics."
+publication = "Oxford Research Encyclopedia of Politics"
  publication_short = ""
 
 # Abstract and optional shortened version.
