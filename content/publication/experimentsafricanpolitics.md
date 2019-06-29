@@ -2,7 +2,7 @@
 title = "Experimental Research in African Politics"
 
 # Date first published.
-date = "2019-03-14"
+date = "2019-06-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George Kwaku Ofosu"]
@@ -19,11 +19,11 @@ authors = ["George Kwaku Ofosu"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "*Under review*. Oxford Encyclopedia of African Politics; Nicholas Cheeseman (ed). Oxford University Press"
- publication_short = ""
+publication = "Oxford Research Encyclopedia of Politics."
+ publication_short = "OREP"
 
 # Abstract and optional shortened version.
-abstract = "Political scientists are increasingly using randomized experiments to study African politics. Scholars have adopted experimental methods to overcome two central research challenges. First, to circumvent social desirability bias to measure the prevalence of sensitive topics such as ethnic bias, clientelism, corruption, and vote buying. Second, to estimate the causal effects of policies aimed at enhancing the quality of democracy or public service delivery. The chapter categorizes the key themes and presents findings of influential experimental work on African politics. It also highlights the potential limits and the ethical challenges that characterize the use of randomization methods in the field." 
+abstract = "Political scientists are increasingly using experiments to study African politics. Experimental methods help scholars to overcome two central research challenges: potential bias in responses to survey questions (social desirability bias), and establishing the effect of X on Y (causality). Regarding survey response bias, experimental methods have been used to study sensitive topics such as ethnic favoritism, clientelism, corruption, and vote buying. In terms of causality, experiments have helped to estimate the effects of programs aimed at enhancing the quality of democracy or public service delivery. Identifying the causes of the political behavior is critical to understanding the “nuts and bolts” of African politics. For policymakers, knowledge of what works to promote democratic accountability ensures the efficient allocation of scarce resources." 
 
 abstract_short = ""
 
@@ -31,7 +31,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -48,7 +48,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "10.1093/acrefore/9780190228637.013.754"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
