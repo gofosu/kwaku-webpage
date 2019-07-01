@@ -2,7 +2,7 @@
 title = "Do Fairer Elections Increase the Responsiveness of Politicians?"
 
 # Date first published.
-date = "2019-03-26"
+date = "2019-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George Kwaku Ofosu"]
@@ -19,7 +19,7 @@ authors = ["George Kwaku Ofosu"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Conditionally accepted at APSR*"
+publication = "*Accepted at American Political Science Review*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -31,7 +31,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
