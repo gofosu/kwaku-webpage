@@ -19,7 +19,7 @@ authors = ["George Kwaku Ofosu"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Accepted at American Political Science Review*"
+publication = "*Accepted. American Political Science Review*"
 publication_short = ""
 
 # Abstract and optional shortened version.
