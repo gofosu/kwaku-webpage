@@ -41,7 +41,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "files/ofosu_fairelections_responsiveness_032019.pdf"
-url_preprint = ""
+url_preprint = "https://www.cambridge.org/core/journals/american-political-science-review/article/do-fairer-elections-increase-the-responsiveness-of-politicians/26AA077459ACA822C4E20A9903E64691"
 url_code = ""
 url_dataset = ""
 url_project = ""
