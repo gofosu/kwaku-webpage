@@ -56,18 +56,18 @@ enableGitInfo = false
 
   # Your details.
   name = "George Ofosu"
-  role = "Postdoctoral Research Associate"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Washington University in St. Louis", url = "https://polisci.wustl.edu/" } ]
+  organizations = [ { name = "London School of Economics and Political Science", url = "http://www.lse.ac.uk/government" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "georgepic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "gofosu@wustl.edu"
-  address = "Campus Box 1063, One Brookings Drive, Seigle Hall 207, St. Louis, MO 63130-4899"
+  email = "g.ofosu@lse.ac.uk"
+  address = "Room CBG 3.04, Houghton Street, London WC2A 2AE, UK"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "650 660 5214"
+  phone = "+ 44 (0)207 955 5668"
   skype = "gofosu"
   #telegram = ""
 
