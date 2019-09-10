@@ -41,7 +41,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "files/AJPS_FINAL.pdf"
-url_preprint = ""
+url_preprint = "https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12458"
 url_code = ""
 url_dataset = ""
 url_project = "https://sites.google.com/view/ghanadebates"
