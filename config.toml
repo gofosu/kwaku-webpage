@@ -56,11 +56,11 @@ enableGitInfo = false
 
   # Your details.
   name = "George Ofosu"
-  role = "Assistant Professor"
+  role = "Assistant Professor in Comparative Politics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "London School of Economics and Political Science", url = "http://www.lse.ac.uk/government" } ]
+  organizations = [{name="Department of Government", url = "http://www.lse.ac.uk/government" }, { name = "London School of Economics and Political Science", url = "http://www.lse.ac.uk/government" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "georgepic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
