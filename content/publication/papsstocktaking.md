@@ -2,10 +2,10 @@
 title = "Pre-Analysis Plans: A Stocktaking"
 
 # Date first published.
-date = "2017-12-15"
+date = "2019-10-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["George Kwaku Ofosu", "Daniel Posner"]
+authors = ["George K. Ofosu", "Daniel N. Posner"]
 
 # Publication type.
 # Legend:
@@ -41,7 +41,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/Ofosu-Posner-191007-1.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
