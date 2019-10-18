@@ -19,7 +19,7 @@ authors = ["George K. Ofosu", "Daniel N. Posner"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In preparation"
+publication = "Working paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
