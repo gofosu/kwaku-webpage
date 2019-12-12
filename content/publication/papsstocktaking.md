@@ -41,7 +41,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "files/Ofosu-Posner-191007-1.pdf"
+url_pdf = "files/Ofosu-Posner-191212.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
