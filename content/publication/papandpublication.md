@@ -19,7 +19,7 @@ authors = ["George K. Ofosu", "Daniel N. Posner"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Working paper"
+publication = "AEA Papers and Proceedings"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -48,7 +48,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://osf.io/xrtqm/"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
