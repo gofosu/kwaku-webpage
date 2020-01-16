@@ -2,7 +2,7 @@
 title = "The Moderating Effect of Debates on Political Attitudes"
 
 # Date first published.
-date = "2019-03-01"
+date = "2020-01-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "Eric Kramon", "George Kwaku Ofosu"]
@@ -19,7 +19,7 @@ authors = ["Sarah Brierley", "Eric Kramon", "George Kwaku Ofosu"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming.  *American Journal of Political Science*"
+publication = "*American Journal of Political Science*"
 publication_short = ""
 
 # Abstract and optional shortened version.
