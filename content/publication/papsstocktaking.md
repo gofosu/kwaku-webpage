@@ -53,7 +53,7 @@ url_source = "https://osf.io/xrtqm/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "World Bank Blogs", url = "https://blogs.worldbank.org/impactevaluations/how-good-are-pre-analysis-plans-practice-and-lessons-writingreviewing-your-next?cid=SHR_BlogSiteShare_EN_EXT"}]
 
 # Does the content use math formatting?
 math = true
