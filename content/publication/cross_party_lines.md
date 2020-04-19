@@ -23,7 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Electoral accountability relies, in part, on voters' willingness to cross party lines to select a competent opposition politician. Knowing when voters are likely to do so is essential for democratic representation. I argue that two critical constituency-level factors jointly influence an individual's likelihood to vote for a candidate from the other party. The first is *partisan geography*: voters have an incentive to vote for opponents in partisan non-segregated constituencies because politicians cannot channel goods to home areas in such districts. Second, voters only have an incentive to vote for opponents when there is a high *level of electoral competition*. In other electoral settings, partisans have few incentives to vote for opponents because they either believe their vote is not essential or they do not expect to benefit from the goods that she will provide (or both). I find support for my argument using data from a conjoint experiment alongside survey responses of citizens (N=2,020) located in a stratified, representative sample of electoral districts in Ghana. "
+abstract = "Electoral accountability relies, in part, on voters' willingness to cross party lines to select a better opposition politician when a copartisan officeholder shirks. Knowing when voters are likely to do so is essential for understanding political responsiveness. I argue that two critical constituency-level factors jointly influence an individual's likelihood to vote for a candidate from the other party. The first is *partisan geography*: voters have an incentive to vote for opponents in constituencies where supporters of competing parties are intermixed in constituent communities because politicians cannot channel goods to home areas in such districts. Second, voters only have an incentive to vote for opponents in constituencies with a high *level of electoral competition* where their vote can be pivotal in selecting and sanctioning an opposition politician. In other electoral settings, partisans have few incentives to vote for opponents because they either do not expect to benefit from the goods that she will provide or they believe that their vote is not essential (or both). I find support for my argument using data from a conjoint experiment alongside survey responses of citizens (N=2,020) located in a stratified, representative sample of electoral districts in Ghana."
 
 abstract_short = ""
 
@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "file/ofosu_cross_the_partyline04152020.pdf"
+url_pdf = "files/ofosu_cross_the_partyline04152020.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
