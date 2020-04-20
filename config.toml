@@ -22,6 +22,9 @@ paginate = 10
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
+# Enable users to switch between day and night mode?
+day_night = true
+
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-119468482-1"
 
