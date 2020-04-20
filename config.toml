@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "1950s"
 
 # Enable users to switch between day and night mode?
   day_night = true
