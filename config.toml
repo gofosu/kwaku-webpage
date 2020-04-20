@@ -22,9 +22,6 @@ paginate = 10
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
-# Enable users to switch between day and night mode?
-day_night = true
-
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-119468482-1"
 
@@ -50,7 +47,10 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "dark"
+
+# Enable users to switch between day and night mode?
+  day_night = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
