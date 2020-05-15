@@ -2,7 +2,7 @@
 title = "Do Pre-Analysis Plans Hamper Publication?"
 
 # Date first published.
-date = "2020-05-15"
+date = "2020-01-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George K. Ofosu", "Daniel N. Posner"]
