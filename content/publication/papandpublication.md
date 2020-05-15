@@ -2,7 +2,7 @@
 title = "Do Pre-Analysis Plans Hamper Publication?"
 
 # Date first published.
-date = "2020-01-09"
+date = "2020-05-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George K. Ofosu", "Daniel N. Posner"]
@@ -19,7 +19,7 @@ authors = ["George K. Ofosu", "Daniel N. Posner"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "AEA Papers and Proceedings"
+publication = "*AEA Papers and Proceedings, 110: 70-74*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -31,7 +31,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -48,7 +48,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.aeaweb.org/articles?id=10.1257/pandp.20201079"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
