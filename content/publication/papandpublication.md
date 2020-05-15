@@ -19,7 +19,7 @@ authors = ["George K. Ofosu", "Daniel N. Posner"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*AEA Papers and Proceedings, 110: 70-74*"
+publication = "*AEA Papers and Proceedings*"
 publication_short = ""
 
 # Abstract and optional shortened version.
