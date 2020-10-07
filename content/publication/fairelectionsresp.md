@@ -52,7 +52,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "CDDRL working paper", url = "https://cddrl.fsi.stanford.edu/publication/do-fair-elections-increase-responsiveness-politicians"},{name = "APSA Public Scholarship Feature", url ="https://politicalsciencenow.com/how-fairer-elections-help-hold-politicians-feet-to-the-fire-and-encourage-responsiveness/"}]
+url_custom = [{name = "2020 Heinz I. Eulau Award for APSR", url = "https://politicalsciencenow.com/george-kwaku-ofosu-receives-the-2020-heinz-i-eulau-award-for-american-political-science-review/"}, {name = "CDDRL working paper", url = "https://cddrl.fsi.stanford.edu/publication/do-fair-elections-increase-responsiveness-politicians"},{name = "APSA Public Scholarship Feature", url ="https://politicalsciencenow.com/how-fairer-elections-help-hold-politicians-feet-to-the-fire-and-encourage-responsiveness/"}]
 
 # Does the content use math formatting?
 math = true
