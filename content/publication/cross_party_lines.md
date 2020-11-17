@@ -2,7 +2,7 @@
 title = "When Do Partisans Cross the Party Line?"
 
 # Date first published.
-date = "2020-02-26"
+date = "2020-11-16"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George Kwaku Ofosu"]
@@ -23,7 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Electoral accountability relies, in part, on voters' willingness to cross party lines to select a better opposition politician when a copartisan officeholder shirks. Knowing when voters are likely to do so is essential for understanding political responsiveness. I argue that two critical constituency-level factors jointly influence an individual's likelihood to vote for a candidate from the other party. The first is *partisan geography*: voters have an incentive to vote for opponents in constituencies where supporters of competing parties are intermixed in constituent communities because politicians cannot channel goods to home areas in such districts. Second, voters only have an incentive to vote for opponents in constituencies with a high *level of electoral competition* where their vote can be pivotal in selecting and sanctioning an opposition politician. In other electoral settings, partisans have few incentives to vote for opponents because they either do not expect to benefit from the goods that she will provide or they believe that their vote is not essential (or both). I find support for my argument using data from a conjoint experiment alongside survey responses of citizens (N=2,020) located in a stratified, representative sample of electoral districts in Ghana."
+abstract = "Partisans rarely vote for opposition party candidates. In contrast to existing work on cross-party voting in developing countries, I argue that two critical constituency-level factors *jointly* shape a partisan's likelihood of voting for a candidate from the other party when desirous of more public infrastructure. The first is *partisan geography*: partisans have an incentive to vote for a similar or better opposition politician when they live side by side with her supporters in a community (i.e., partisan nonsegregated areas)  because politicians cannot exclude them from the provided benefits. Second, voters only have an incentive to cross party lines in \textit{competitive} electoral districts because their vote can be pivotal in selecting and sanctioning an opposition politician. I find support for my hypothesis and proposed explanation using data from a conjoint experiment alongside survey responses of citizens located in a stratified, representative sample of electoral districts in Ghana. The findings help explain seemingly contradictory results in the literature by showing that partisans are willing to cross party lines in specific electoral settings."
 
 abstract_short = ""
 
@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "files/ofosu_cross_the_partyline04152020.pdf"
+url_pdf = "files/ofosu_crossing_partylines1116112020.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
