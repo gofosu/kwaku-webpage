@@ -1,8 +1,8 @@
 +++
-title = "Pre-Analysis Plans: A Stocktaking"
+title = "Pre-Analysis Plans: An Early Stocktaking"
 
 # Date first published.
-date = "2019-10-10"
+date = "2020-12-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George K. Ofosu", "Daniel N. Posner"]
@@ -24,7 +24,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 
-abstract = "The evidence-based community has championed the public registration of pre-analysis plans (PAPs) as a solution to the problem of research credibility, but without any evidence that PAPs actually bolster the credibility of research. We analyze a representative sample of 195 pre-analysis plans (PAPs) from the American Economic Association (AEA) and Evidence in Governance and Politics (EGAP) registration platforms to assess whether PAPs are sufficiently clear, precise and comprehensive to be able to achieve their objectives of preventing *fishing* and reducing the scope for post-hoc adjustment of research hypotheses. We also analyze a subset of 93 PAPs from projects that have resulted in publicly available papers to ascertain how faithfully they adhere to their pre-registered specifications and hypotheses. We find significant variation in the extent to which PAPs are accomplishing the goals they were designed to achieve."
+abstract = "Pre-analysis plans (PAPs) have been championed as a solution to the problem of research credibility, but without any evidence that PAPs actually bolster the credibility of research. We analyze a representative sample of 195 PAPs registered on the Evidence in Governance and Politics (EGAP) and American Economic Association (AEA) registration platforms to assess whether PAPs registered in the early days of pre-registration (2011-2016) were sufficiently clear, precise and comprehensive to achieve their objective of preventing *fishing* and reducing the scope for post-hoc adjustment of research hypotheses. We also analyze a subset of 93 PAPs from projects that resulted in publicly available papers to ascertain how faithfully they adhere to their pre-registered specifications and hypotheses. We find significant variation in the extent to which PAPs registered during this period accomplished the goals they were designed to achieve. We discuss these findings in light of both the costs and benefits of pre-registration, showing how our results speak to the various arguments that have been made in support of and against PAPs.  We also highlight the norms and institutions that will need to be strengthened to augment the power of PAPs to improve research credibility and to create incentives for researchers to invest in both producing and policing them."
 
 abstract_short = ""
 
@@ -41,7 +41,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "files/Ofosu-Posner-191212.pdf"
+url_pdf = "files/Ofosu-Posner-201209.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
