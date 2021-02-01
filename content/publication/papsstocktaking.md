@@ -19,7 +19,7 @@ authors = ["George K. Ofosu", "Daniel N. Posner"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "conditionally accepted at Perspective on Politics"
 publication_short = ""
 
 # Abstract and optional shortened version.
