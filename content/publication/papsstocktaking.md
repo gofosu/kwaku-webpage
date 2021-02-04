@@ -2,7 +2,7 @@
 title = "Pre-Analysis Plans: An Early Stocktaking"
 
 # Date first published.
-date = "2020-12-09"
+date = "2021-02-04"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George K. Ofosu", "Daniel N. Posner"]
@@ -16,10 +16,10 @@ authors = ["George K. Ofosu", "Daniel N. Posner"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "accepted at *Perspectives on Politics*"
+publication = "Forthcoming. *Perspectives on Politics*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -32,7 +32,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
