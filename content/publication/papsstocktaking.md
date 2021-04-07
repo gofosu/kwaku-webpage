@@ -42,7 +42,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "files/Ofosu-Posner-201209.pdf"
-url_preprint = ""
+url_preprint = "https://www.cambridge.org/core/journals/perspectives-on-politics/article/preanalysis-plans-an-early-stocktaking/94E7FAE76001C45A04E8F5E272C773CE"
 url_code = ""
 url_dataset = ""
 url_project = ""
