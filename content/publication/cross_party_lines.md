@@ -2,7 +2,7 @@
 title = "When Do Partisans Cross the Party Line?"
 
 # Date first published.
-date = "2020-11-16"
+date = "2021-03-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George Kwaku Ofosu"]
