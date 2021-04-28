@@ -23,7 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Partisans rarely vote for opposition party candidates. In contrast to existing work on cross-party voting in developing countries, I argue that two critical constituency-level factors *jointly* shape a partisan's likelihood of voting for a candidate from the other party when desirous of more public infrastructure. The first is *partisan geography*: partisans have an incentive to vote for a similar or better opposition politician when they live side by side with her supporters in a community (i.e., partisan nonsegregated areas)  because politicians cannot exclude them from the provided benefits. Second, voters only have an incentive to cross party lines in \textit{competitive} electoral districts because their vote can be pivotal in selecting and sanctioning an opposition politician. I find support for my hypothesis and proposed explanation using data from a conjoint experiment alongside survey responses of citizens located in a stratified, representative sample of electoral districts in Ghana. The findings help explain seemingly contradictory results in the literature by showing that partisans are willing to cross party lines in specific electoral settings."
+abstract = "When will partisans cross party lines to elect a potentially better-performing opposition politician? Individuals in developing countries vote for politicians in expectation of public goods. Partisan geography influences voters' beliefs about politicians' ability to exclude them from such goods. Since voters believe they are better able to replace poorly performing incumbents in competitive districts, partisans in non-segregated, competitive constituencies are more likely to vote for opposition candidates than those in other settings. Using a conjoint experiment administered to voters that randomized the characteristics of parliamentary candidates in Ghana, I find that voters in competitive, non-segregated districts are the most willing to cross party lines. Additional data on actual public goods distribution supports the mechanism. Data from Ghana's 2020 parliamentary elections confirm the external validity of the findings: party switching is highest in this type of district. My results demonstrate the influence of constituency characteristics on electoral accountability."
 
 abstract_short = ""
 
@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "files/ofosu_crossing_partylines1116112020.pdf"
+url_pdf = "files/ofosu_crossing_partylines032021.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
