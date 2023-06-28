@@ -23,7 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Legislators are multitasking agents of citizens but operate with limited time and resources. First, they must decide how to divide their time between capital for parliamentary work and constituency-related work in their electoral district. Second, how much effort to dedicate to political representation, constituency services, and social gatherings in their constituency. The extent to which these nested decisions match constituents' preferences indicates democratic responsiveness. Yet we know little regarding African voters' views of these decisions. I use a conjoint survey experiment to investigate which legislator activities citizens value. Citizens prefer that politicians dedicate as much time to the electoral district as the capital. At home, they value higher efforts in political representation *and* constituency services that focus on building public infrastructure. In contrast, pledged support for personal transfers, casework, and social events are relatively less critical. The findings have important implications for political representation and democratic accountability in the developing world."
+abstract = "Legislators are multitasking agents of citizens but operate with limited time and resources. They must make two important decisions regarding how best to use their time: (1) how to divide their time between the capital (for parliamentary work) and their electoral district (for constituency-related work) and (2) how much effort to dedicate to political representation, constituency services, and social gatherings in their constituency. The extent to which these nested decisions match constituents' preferences indicates democratic responsiveness. Yet we know little about African voters' views of these decisions. I use a conjoint survey experiment to investigate which legislator activities citizens value. I find that citizens prefer politicians to dedicate as much time to their electoral district as to the capital. At home, they value greater efforts in political representation *and* constituency services that focus on building public infrastructure. Citizens place less value on pledged support for personal transfers, casework, and social events. These findings have important implications for political representation and democratic accountability in the developing world."
 
 abstract_short = ""
 
@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "files/ofosu_constituency_service032023.pdf"
+url_pdf = "files/ofosu_constituency_service052023_2.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
