@@ -23,18 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Governments and organizations worldwide pour money into campaigns designed to increase
-female political representation, including voter education campaigns. But do such campaigns
-promote women in politics? We argue that where single-member district contests and clientelism
-incentivize voters to support viable candidates, information about discrimination against women
-can undercut support for women in elections. Instead, messages that stress women candidates’
-viability are more effective. We work with one of the longest-running voter education campaigns,
-Malawi’s 50:50 campaign, to combine randomized exposure to campaign videos with a conjoint
-experiment and text analysis of respondents’ answers to open-ended questions. We find that
-exposure to a campaign message makes participants more willing to vote for a woman. But,
-in line with our argument, a campaign message that includes information about the progress
-of women in politics has a stronger positive effect than one that discloses information about
-discrimination against women candidates."
+abstract = "Governments and organizations worldwide pour money into campaigns designed to increase female political representation, including voter education campaigns. But do such campaigns promote women in politics? We argue that where single-member district contests and clientelism incentivize voters to support viable candidates, information about discrimination against women can undercut support for women in elections. Instead, messages that stress women candidates’ viability are more effective. We work with one of the longest-running voter education campaigns, Malawi’s 50:50 campaign, to combine randomized exposure to campaign videos with a conjoint experiment and text analysis of respondents’ answers to open-ended questions. We find that exposure to a campaign message makes participants more willing to vote for a woman. But, in line with our argument, a campaign message that includes information about the progress of women in politics has a stronger positive effect than one that discloses information about discrimination against women candidates."
 
 abstract_short = ""
 
