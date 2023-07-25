@@ -2,7 +2,7 @@
 title = "Chiefs' Endorsements and Voter Behavior"
 
 # Date first published.
-date = "2022-09-12"
+date = "2023-07-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sarah Brierley", "George Kwaku Ofosu"]
@@ -19,7 +19,7 @@ authors = ["Sarah Brierley", "George Kwaku Ofosu"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "*Conditionally accepted at Comparative Political Studies*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -52,7 +52,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = []
+url_custom = [{name = "Pre-analysis plan", url = "https://osf.io/rn9sf"}, {name = "Replication files", url = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DXXAAU"}]
 
 # Does the content use math formatting?
 math = true
