@@ -41,7 +41,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "files/brierleyofosu_chiefendorsement_july252023.pdf"
-url_preprint = ""
+url_preprint = "https://journals.sagepub.com/doi/10.1177/00104140231194916"
 url_code = ""
 url_dataset = ""
 url_project = ""
