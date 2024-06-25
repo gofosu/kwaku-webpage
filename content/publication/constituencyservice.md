@@ -2,7 +2,7 @@
 title = "What do African voters want from their legislators? Evidence from a choice experiment in Ghana"
 
 # Date first published.
-date = "2023-06-15"
+date = "2024-06-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George Kwaku Ofosu"]
@@ -16,14 +16,14 @@ authors = ["George Kwaku Ofosu"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "In Press, African Affairs"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Legislators are multitasking agents of citizens but operate with limited time and resources. They must make two important decisions regarding how best to use their time: (1) how to divide their time between the capital (for parliamentary work) and their electoral district (for constituency-related work) and (2) how much effort to dedicate to political representation, constituency services, and social gatherings in their constituency. The extent to which these nested decisions match constituents' preferences indicates democratic responsiveness. Yet we know little about African voters' views of these decisions. I use a conjoint survey experiment to investigate which legislator activities citizens value. I find that citizens prefer politicians to dedicate as much time to their electoral district as to the capital. At home, they value greater efforts in political representation *and* constituency services that focus on building public infrastructure. Citizens place less value on pledged support for personal transfers, casework, and social events. These findings have important implications for political representation and democratic accountability in the developing world."
+abstract = "Legislators make trade-offs when allocating their time and resources to their multiple tasks of representation, legislation, executive oversight, and constituency service. Furthermore, they must decide how much effort to exert or the balance to strike when undertaking a specific function. Existing research provides limited insights into citizens’ preferences over these multifaceted officeholder decisions in sub-Saharan Africa. I offer novel insights on citizens’ preferences using a conjoint survey experiment of Ghanaians to address this knowledge gap. My findings are threefold. First, I find that citizens put more weight on constituency-related activities than parliamentary work. Second, in the constituency, citizens value political representation activities more than constituency services. Third, they weigh public-good-oriented constituency services higher than private ones. The research contributes to our understanding of citizen-legislator accountability relationship in sub-Saharan Africa."
 
 abstract_short = ""
 
@@ -41,7 +41,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "files/ofosu_constituency_service052023_2.pdf"
-url_preprint = ""
+url_preprint = "https://doi.org/10.1093/afraf/adae013"
 url_code = ""
 url_dataset = ""
 url_project = ""
