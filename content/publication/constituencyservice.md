@@ -1,5 +1,5 @@
 +++
-title = "What do African voters want from their legislators? Evidence from a choice experiment in Ghana"
+title = "What do voters want from their legislators? Evidence from Ghana"
 
 # Date first published.
 date = "2024-06-25"
