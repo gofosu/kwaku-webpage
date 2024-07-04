@@ -2,7 +2,7 @@
 title = "What do voters want from their legislators? Evidence from Ghana"
 
 # Date first published.
-date = "2024-06-25"
+date = "2024-07-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George Kwaku Ofosu"]
