@@ -19,7 +19,7 @@ authors = ["George Kwaku Ofosu"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Press, African Affairs"
+publication = "*Forthcoming, African Affairs*"
 publication_short = ""
 
 # Abstract and optional shortened version.
