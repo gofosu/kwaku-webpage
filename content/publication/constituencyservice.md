@@ -19,7 +19,7 @@ authors = ["George Kwaku Ofosu"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Forthcoming, African Affairs*"
+publication = "*African Affairs*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -40,15 +40,15 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "files/ofosu_constituency_service052023_2.pdf"
-url_preprint = "https://doi.org/10.1093/afraf/adae013"
+url_pdf = ""
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.1093/afraf/adae013"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
