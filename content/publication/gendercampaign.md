@@ -40,9 +40,9 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/osw_revised_manuscript.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://doi.org/10.7910/DVN/6FHV5B"
 url_dataset = ""
 url_project = ""
 url_slides = ""
