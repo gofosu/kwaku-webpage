@@ -19,7 +19,7 @@ authors = ["George Kwaku Ofosu", "Merete Bech Seeberg", "Michael Wahman"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Conditionally accepted, the Journal of Politics"
+publication = "Accepted, the Journal of Politics"
 publication_short = ""
 
 # Abstract and optional shortened version.
