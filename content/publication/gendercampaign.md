@@ -42,7 +42,7 @@ projects = []
 # Links (optional).
 url_pdf = "files/osw_revised_manuscript.pdf"
 url_preprint = ""
-url_code = "https://doi.org/10.7910/DVN/6FHV5B"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -52,7 +52,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = []
+url_custom = [{name = "Pre-analysis plan", url = "https://osf.io/46etf"}, {name = "Replication files", url = "https://doi.org/10.7910/DVN/6FHV5B"}]
 
 # Does the content use math formatting?
 math = true
