@@ -19,7 +19,7 @@ authors = ["Sarah Brierley", "George Kwaku Ofosu"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Forthcoming. Comparative Political Studies*"
+publication = "*Comparative Political Studies*"
 publication_short = ""
 
 # Abstract and optional shortened version.
