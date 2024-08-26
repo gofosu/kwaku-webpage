@@ -2,7 +2,7 @@
 title = "Messages matter: How voter education campaigns affect citizens’ willingness to vote for women"
 
 # Date first published.
-date = "2023-06-09"
+date = "2024-08-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George Kwaku Ofosu", "Merete Bech Seeberg", "Michael Wahman"]
@@ -31,7 +31,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
