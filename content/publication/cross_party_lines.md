@@ -1,8 +1,8 @@
 +++
-title = "When Do Partisans Cross the Party Line?"
+title = "Voting Against the Grain: Partisan Geography, Electoral Competition, and Voter Behavior"
 
 # Date first published.
-date = "2021-03-31"
+date = "2025-05-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["George Kwaku Ofosu"]
@@ -23,7 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "When will partisans cross party lines to elect a potentially better-performing opposition politician? Individuals in developing countries vote for politicians in expectation of public goods. Partisan geography influences voters' beliefs about politicians' ability to exclude them from such goods. Since voters believe they are better able to replace poorly performing incumbents in competitive districts, partisans in non-segregated, competitive constituencies are more likely to vote for opposition candidates than those in other settings. Using a conjoint experiment administered to voters that randomized the characteristics of parliamentary candidates in Ghana, I find that voters in competitive, non-segregated districts are the most willing to cross party lines. Additional data on actual public goods distribution supports the mechanism. Data from Ghana's 2020 parliamentary elections confirm the external validity of the findings: party switching is highest in this type of district. My results demonstrate the influence of constituency characteristics on electoral accountability."
+abstract = "Partisans often face two dilemmas when deciding to vote for a potentially better-performing opposition candidate in clientelistic distributive systems. First, whether the opposition candidate, once elected, will provide them with promised public goods. Second, whether they can sanction the politician should she renege. I argue that partisans' fears of exclusion and inability to punish shirking are much lower in electoral districts where parties' supporters live side-by-side (partisan nonsegregated) *and* elections are competitive compared to other electoral settings. Accordingly, partisans are more likely to cross party lines in nonsegregated and competitive constituencies than in other settings. Using a conjoint experiment administered to voters sampled from a stratified sample of constituencies in Ghana, I show that voters in competitive, nonsegregated districts are the most willing to cross party lines. Additional data on voters' perceptions of actual public goods distribution and political efficacy support the mechanism. My results demonstrate how partisan geography and electoral competitiveness jointly shape democratic accountability in clientelistic systems."
 
 abstract_short = ""
 
@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "files/ofosu_crossing_partylines032021.pdf"
+url_pdf = "files/ofosu_voting_against_grain_may2025.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
